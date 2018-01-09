@@ -1,3 +1,3 @@
 class profile::docker {
- include ::docker
+  include ::docker
 }
